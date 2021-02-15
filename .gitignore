@@ -1,0 +1,14 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+*.code-workspace
+_config.yml
+assets/main.scss
+Gemfile
+images/favicon.ico
+images/landscape-trees.jpg
+images/profile.jpg
+index.md
+LICENSE
