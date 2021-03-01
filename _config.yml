@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Á¤Ãµ¿õ CheonWoong Jeong
+name: ì •ì²œì›… CheonWoong Jeong
 title: Code Creator Java Developer
 email: frostnightsong@gmail.com
 website: https://frostnight.github.io/
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  »õ·Î¿î Skill°ú ÁöÇı·Î¿î Legacy¸¦ ÅëÇÏ¿© Ã¢ÀÇÀûÀÎ ÄÚµå¸¦ °³¹ßÇÔÀ» Ãß±¸ÇÏ´Â Code CreatorÀÔ´Ï´Ù.
+  ìƒˆë¡œìš´ Skillê³¼ ì§€í˜œë¡œìš´ Legacyë¥¼ í†µí•˜ì—¬ ì°½ì˜ì ì¸ ì½”ë“œë¥¼ ê°œë°œí•¨ì„ ì¶”êµ¬í•˜ëŠ” Code Creatorì…ë‹ˆë‹¤.
 
-  º¸À¯ ±â¼ú : <mark>Java</mark>, <mark>Eating Pizza</mark> And <mark>Eating Pizza</mark>
+  ë³´ìœ  ê¸°ìˆ  : <mark>Java</mark>, <mark>Eating Pizza</mark> And <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
